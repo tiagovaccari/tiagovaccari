@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello world, I'm Tiago :computer:
 
-<!--
-**tiagovaccari/tiagovaccari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.Net Developer
 
-Here are some ideas to get you started:
+Sports, games and techology enthusiastic 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 💻 Working as developer at Arbor Memorial Inc. :deciduous_tree: in Toronto, Canada. :maple_leaf:
+- :books: Studying Unity in my free time. 
+- :space_invader: Helping to build a better development environment in the world
+
+
+---
+### Made by Me
