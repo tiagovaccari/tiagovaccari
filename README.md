@@ -1,6 +1,7 @@
 # Hello world, I'm Tiago :computer:
 
-.Net Developer
+Fullstack Engineer
+ReactJS | JS | Node | .Net Core | .Net
 
 Sports, games and techology enthusiastic 
 
